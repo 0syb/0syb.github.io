@@ -1,0 +1,6 @@
+body
+{
+background-image:url('/assets/img/Background.png');
+background-repeat:repeat-x;
+}
+#date {text-align:right;}
